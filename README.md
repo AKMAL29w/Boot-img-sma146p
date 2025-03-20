@@ -1,0 +1,1 @@
+# Boot-img-sma146p
